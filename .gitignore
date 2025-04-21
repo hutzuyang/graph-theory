@@ -1,0 +1,8 @@
+# build #
+#########
+build/
+
+# system #
+##########
+.DS_Store  # macOS metadata file
+Thumbs.db  # Windows thumbnail cache file
